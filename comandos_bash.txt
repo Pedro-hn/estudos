@@ -6,14 +6,9 @@ pwd -> mostra o diretório de trabalho
 mkdir -> cria uma pasta no diretório
 rm -rf .git -> exclui a pasta git
 rm (remove arquivos do diretório)
-git init . -> cria a pasta com repositório de git (inicializa um repositório git)
-git status -> mostra em qual branch você está e quais os commits(checkpoints)
 cat + nome do diretório.tipo de extensão -> mostra o conteúdo do arquivo
-git add -> adiciona todos os arquivos que você quer commitar (que você quer incluir naquele checkpoint específico)
-git commit -m -> Commita o arquivo(salva o arquivo - checkpoint)
-git config --global user.email "pedro.hn.reis@hotmail.com" -> confirmação do email
-git config --global user.name "Pedro Reis" -> confirmação do usuário que está realizando o commit
-git log -> mostra todo o histórico de commits
+
+
 
 
 

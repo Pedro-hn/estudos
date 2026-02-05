@@ -7,5 +7,7 @@ git config --global user.name "Pedro Reis" -> confirmação do usuário que est�
 git log (mostra todo o histórico de commit)
 git diff comandos_git.txt
 
+git checkout -b -> cria uma nova branch (caminho)
+git branch -> mostra todas as branchs do projeto
 
 Teste 1 
